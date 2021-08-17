@@ -1,0 +1,10 @@
+****USE STORY****
+En tant qu'admin
+Je veux gérer les memebres,les visiteurs,les entraineurs
+ainsi que la suivie des abonnements et la gestion des activités.
+
+En tant que client
+Je souhaite s'incrire dans la salle,suivre mes activités,suivre mon type d'abonnement.
+
+En tant que visiteur 
+Je souhaite consulter la salle.
